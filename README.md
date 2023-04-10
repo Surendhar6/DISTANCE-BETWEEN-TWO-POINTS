@@ -8,7 +8,7 @@ Create two list by naming them(eg. l1 and l2).
 ### Step 2: 
 In the list , assign the values as the distance points.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![image](https://user-images.githubusercontent.com/118352907/230833845-6424f179-3249-4d2b-b8a6-3884e9a7aa38.png)
 ### Step 4: 
 Using print statement, get the output of distance between two points.
 ### PROGRAM:
